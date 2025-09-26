@@ -8,7 +8,7 @@ Bu dosya, TypeScript ile **dizi (array) işlemleri ve algoritmalar** üzerine al
 - Dizinin toplamı, ortalaması ve ortalamadan büyük elemanları bulma  
 - İki diziyi toplama  
 - Bubble sort algoritması ile diziyi sıralama  
-
+ 
 ### Çalıştırma
 1. Repoyu klonlayın:
    ```bash
