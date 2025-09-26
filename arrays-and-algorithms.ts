@@ -39,7 +39,7 @@
 // }
 // console.log(MyList);
 // console.log("Toplam:", sum);
-
+ 
 // let ort = sum / MyList.length;
 // console.log("Ortalama:", ort);
 
